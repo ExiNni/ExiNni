@@ -37,7 +37,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
         <img src="https://img.shields.io/badge/JSP&SERVLET-006600?style=for-the-badge&logo=JSP&SERVLET&logoColor=white">
         <img src="https://img.shields.io/badge/MyBatis-006600?style=for-the-badge&logo=MyBatis&logoColor=white">
-
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
