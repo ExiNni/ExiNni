@@ -89,7 +89,7 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
     </div>
   <!-- Environment -->
-    <p><strong>Emvironment</strong></p>
+    <p><strong>Environment</strong></p>
     <div>
      <img src="https://img.shields.io/badge/Windows 10-0078D6?style=for-the-badge&logo=windows10&logoColor=white"> 
      <img src="https://img.shields.io/badge/macOS Sonoma-000000?style=for-the-badge&logo=macos&logoColor=white"> 
