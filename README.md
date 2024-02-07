@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ExiNni's GitHub stats](https://github-readme-stats.vercel.app/api?
-username=ExiNni&include_all_commits=true&show_icons=true&theme=cobalt)]
-(https://github.com/ExiNni/github-readme-stats)
-
 [![ExiNni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExiNni&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/ExiNni/github-readme-stats)
