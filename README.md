@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [![ExiNni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExiNni&includeallcommits=true&showicons=true&theme=cobalt)](https://github.com/ExiNni/github-readme-stats)
 
-## 🔨 기술 스택 🔨
+## 🔭 기술 스택 🔭
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
  <!-- Frontend -->
     <p><strong>Frontend</strong></p>
