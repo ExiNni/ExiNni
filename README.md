@@ -61,13 +61,15 @@ Here are some ideas to get you started:
     <div>
         <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+     <img src="https://img.shields.io/badge/Lombok -B32629?style=for-the-badge&logo=Lombok &logoColor=white"> 
+     <img src="https://img.shields.io/badge/Redis -DC382D?style=for-the-badge&logo=redis &logoColor=white"> 
     </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Lombok AWS-B32629?style=for-the-badge&logo=Lombok &logoColor=white"> 
     </div>
  <!-- Tool -->
     <p><strong>Tool</strong></p>
