@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 
 [![ExiNni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExiNni&includeallcommits=true&showicons=true&theme=cobalt)](https://github.com/ExiNni/github-readme-stats)
-<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 
 ## 🔨 기술 스택 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
