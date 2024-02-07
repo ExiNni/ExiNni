@@ -68,6 +68,7 @@ Here are some ideas to get you started:
     <div>
         <img src="https://img.shields.io/badge/Amazon EC2-F8DC75?style=for-the-badge&logo=amazonec2&logoColor=black">
              <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=black">
+     <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black">
     </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
