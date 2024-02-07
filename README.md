@@ -64,11 +64,16 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/Lombok -B32629?style=for-the-badge&logo=Lombok &logoColor=white"> 
      <img src="https://img.shields.io/badge/Redis -DC382D?style=for-the-badge&logo=Redis &logoColor=white"> 
     </div>
+ <!-- Cloud Services -->
+    <p><strong>Cloud Services</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Amazon EC2-F8DC75?style=for-the-badge&logo=amazonec2&logoColor=black">
+             <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=black">
+    </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     </div>
  <!-- Tool -->
     <p><strong>Tool</strong></p>
