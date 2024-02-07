@@ -60,6 +60,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
      <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
      <img src="https://img.shields.io/badge/ajax-0769AD?style=for-the-badge&logo=ajax&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
     </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
