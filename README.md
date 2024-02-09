@@ -112,3 +112,6 @@ Here are some ideas to get you started:
 </div><br>
 </div>
 
+[Contributor 1](https://github.com/contributor1) - Description of their contributions.
+[Contributor 2](https://github.com/contributor2) - Description of their contributions.
+
