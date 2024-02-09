@@ -114,7 +114,6 @@ Here are some ideas to get you started:
 
 <div style="border: 1px solid black; padding: 5px;">
   <img src="https://github.com/rjswh0503.png" width="60px"/><br/>
-  <hr/> <!-- Horizontal line -->
   Shin
 </div>
 
