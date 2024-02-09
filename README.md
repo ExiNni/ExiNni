@@ -20,12 +20,16 @@ Here are some ideas to get you started:
  
 <div align="left">
 
--------
+  <hr/> <!-- Horizontal line -->
+
 
  
 ![ExiNni's github stats](https://github-readme-stats.vercel.app/api?username=ExiNni&showicons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExiNni&layout=compact&theme=tokyonight)
+
+  <hr/> <!-- Horizontal line -->
+
 
 ## 🔭 기술 스택 🔭
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -110,7 +114,11 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
 
 </div><br>
+
 </div>
+
+  <hr/> <!-- Horizontal line -->
+
 
 <h2>Contributions</h2></br>
 
