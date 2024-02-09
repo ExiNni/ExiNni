@@ -112,5 +112,5 @@ Here are some ideas to get you started:
 </div><br>
 </div>
 
-<img src="https://github.com/rjswh0503.png" width="60px;"/>
+<img src="https://github.com/rjswh0503.png" width="60px;"/><br/>Shin
 
