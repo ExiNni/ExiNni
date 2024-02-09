@@ -53,6 +53,7 @@ Here are some ideas to get you started:
     <div>
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
         <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+          <img src="https://img.shields.io/badge/Redis -DC382D?style=for-the-badge&logo=Redis &logoColor=white"> 
     </div>
  <!-- Framework/Library -->
     <p><strong>Framework & Library</strong></p>
@@ -60,7 +61,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
      <img src="https://img.shields.io/badge/Lombok -B32629?style=for-the-badge&logo=Lombok &logoColor=white"> 
-     <img src="https://img.shields.io/badge/Redis -DC382D?style=for-the-badge&logo=Redis &logoColor=white"> 
     </div>
  <!-- Cloud Services -->
     <p><strong>Cloud Services</strong></p>
