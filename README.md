@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExiNni&layout=compact&theme=tokyonight)
 
-
 ## 🔭 기술 스택 🔭
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
  <!-- Frontend -->
