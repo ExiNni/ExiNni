@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 
 
-[![ExiNni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExiNni&includeallcommits=true&showicons=true&theme=radical)](https://github.com/ExiNni/github-readme-stats)
 
 ![ExiNni's github stats](https://github-readme-stats.vercel.app/api?username=ExiNni&show_icons=true&theme=tokyonight)
 
