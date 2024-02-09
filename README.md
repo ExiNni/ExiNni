@@ -53,7 +53,7 @@ Here are some ideas to get you started:
     <div>
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
         <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-          <img src="https://img.shields.io/badge/Redis -DC382D?style=for-the-badge&logo=Redis &logoColor=white"> 
+          <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"> 
     </div>
  <!-- Framework/Library -->
     <p><strong>Framework & Library</strong></p>
