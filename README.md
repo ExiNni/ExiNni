@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -------
 
 
-![ExiNni's github stats](https://github-readme-stats.vercel.app/api?username=ExiNni&show_icons=true&theme=tokyonight)
+![ExiNni's github stats](https://github-readme-stats.vercel.app/api?username=ExiNni&showicons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExiNni&layout=compact&theme=tokyonight)
 
