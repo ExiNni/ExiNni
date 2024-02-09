@@ -112,8 +112,10 @@ Here are some ideas to get you started:
 </div><br>
 </div>
 
-<div style="border: 1px solid black; padding: 5px;">
-  <img src="https://github.com/rjswh0503.png" width="60px"/><br/>
-  Shin
+  | ![Shin](https://github.com/rjswh0503.png) | ![JongHwan](https://github.com/whdghks9241.png) | ![chanakoh](https://github.com/chanakoh.png) | ![BEOM](https://github.com/jibum1559.png) | ![KYUNGNAN KIM](https://github.com/khkyungnan.png) |
+|:-----------------------------------------:|:----------------------------------------------:|:-------------------------------------------:|:----------------------------------------:|:----------------------------------------------------:|
+|                   Shin                    |                    JongHwan                     |                   chanakoh                   |                   BEOM                   |                   KYUNGNAN KIM                     |
+
+
 </div>
 
