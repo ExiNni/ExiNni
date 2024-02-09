@@ -60,6 +60,7 @@ Here are some ideas to get you started:
     <div>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+     <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
      <img src="https://img.shields.io/badge/Lombok -B32629?style=for-the-badge&logo=Lombok &logoColor=white"> 
     </div>
  <!-- Cloud Services -->
@@ -92,6 +93,12 @@ Here are some ideas to get you started:
     <div>
      <img src="https://img.shields.io/badge/Windows 10-0078D6?style=for-the-badge&logo=windows10&logoColor=white"> 
      <img src="https://img.shields.io/badge/macOS Sonoma-000000?style=for-the-badge&logo=macos&logoColor=white"> 
+    </div>
+ <!-- Office -->
+    <p><strong>Office</strong></p>
+    <div>
+     <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"> 
+     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
     </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
