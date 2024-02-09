@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 [![ExiNni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExiNni&includeallcommits=true&showicons=true&theme=radical)](https://github.com/ExiNni/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExiNni&layout=Demo&theme=compact)
+
 ## 🔭 기술 스택 🔭
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
  <!-- Frontend -->
