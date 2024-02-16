@@ -120,7 +120,7 @@ Here are some ideas to get you started:
   <hr/> <!-- Horizontal line -->
 
 <h2>Contributions</h2></br>
-
+|:-----------------------------------------:|:----------------------------------------------:|:-------------------------------------------:|:----------------------------------------:|:----------------------------------------------------:|
   | ![Shin](https://github.com/rjswh0503.png) | ![JongHwan](https://github.com/whdghks9241.png) | ![chanakoh](https://github.com/chanakoh.png) | ![BEOM](https://github.com/jibum1559.png) | ![KYUNGNAN KIM](https://github.com/khkyungnan.png) |
 |:-----------------------------------------:|:----------------------------------------------:|:-------------------------------------------:|:----------------------------------------:|:----------------------------------------------------:|
 | [Shin](https://github.com/rjswh0503)      | [JongHwan](https://github.com/whdghks9241)    | [chanakoh](https://github.com/chanakoh)    | [BEOM](https://github.com/jibum1559)     | [KYUNGNAN KIM](https://github.com/khkyungnan)       |
