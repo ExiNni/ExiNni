@@ -109,12 +109,13 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android studio&logoColor=white">
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
         <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-        <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
      </div>
  <div>
         <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
         <img src="https://img.shields.io/badge/-maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+        <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
+  
  </div>
 
 <br>
