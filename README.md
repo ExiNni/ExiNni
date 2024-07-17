@@ -46,7 +46,6 @@ Here are some ideas to get you started:
     <div>
         <img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
      <img src="https://img.shields.io/badge/JSP&SERVLET-09B6A2?style=for-the-badge&logo=JSP&SERVLET&logoColor=white">
-        <img src="https://img.shields.io/badge/MyBatis-09B6A2?style=for-the-badge&logo=MyBatis&logoColor=white">
         <img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
     </div>
     <!-- Database -->
@@ -61,6 +60,7 @@ Here are some ideas to get you started:
     <div>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+     <img src="https://img.shields.io/badge/MyBatis-09B6A2?style=for-the-badge&logo=MyBatis&logoColor=white">
     </div>
  <!-- Cloud Services -->
     <p><strong>Cloud Services</strong></p>
