@@ -53,7 +53,7 @@ Here are some ideas to get you started:
     <p><strong>Database</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-        <img src="https://img.shields.io/badge/MariaDB-#003545?style=for-the-badge&logo=mariadb&logoColor=white">
+        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
     </div>
  <!-- Framework/Library -->
     <p><strong>Framework & Library</strong></p>
