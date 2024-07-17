@@ -54,6 +54,7 @@ Here are some ideas to get you started:
     <div>
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
         <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+        <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
     </div>
  <!-- Framework/Library -->
     <p><strong>Framework & Library</strong></p>
@@ -85,36 +86,11 @@ Here are some ideas to get you started:
     <p><strong>Collaboration</strong></p>
     <div>
      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> 
-     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+     <img src="https://img.shields.io/badge/synology-B5B5B6?style=for-the-badge&logo=synology&logoColor=white">
+     <img src="https://img.shields.io/badge/redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white">
     </div>
-  <!-- Environment -->
-    <p><strong>Environment</strong></p>
-    <div>
-     <img src="https://img.shields.io/badge/Windows 10-0078D6?style=for-the-badge&logo=windows10&logoColor=white"> 
-     <img src="https://img.shields.io/badge/macOS Sonoma-000000?style=for-the-badge&logo=macos&logoColor=white"> 
-    </div>
- <!-- Office -->
-    <p><strong>Office</strong></p>
-    <div>
-     <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"> 
-     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
-    </div>
-    <!-- Others -->
-    <p><strong>Others</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-        <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android studio&logoColor=white">
-        <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-     </div>
- <div>
-        <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
-        <img src="https://img.shields.io/badge/-maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
-        <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
-  
- </div>
-
+ 
 <br>
 
 </div>
