@@ -61,7 +61,6 @@ Here are some ideas to get you started:
     <div>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
-     <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
     </div>
  <!-- Cloud Services -->
     <p><strong>Cloud Services</strong></p>
